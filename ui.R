@@ -1,11 +1,17 @@
+library(shiny)
+library(shinyjs)
+library(shinyTree)
+library(shinyWidgets)
+library(shinythemes)
+
 #################################
 ### Data
 #################################
 
-setwd("C:/Users/Marcelo/Desktop/Chave online/chave_familias")
+#setwd("C:/Users/Marcelo/Desktop/Chave online/chave_familias")
 
 read.csv("Dat_matrix.csv", row.names = 1) -> mat
-read.csv("Dat_characters.csv", stringsAsFactors = F) -> char.dat
+read.csv("Dat_characters.csv", stringsAsFactors = F, fileEncoding = "latin1") -> char.dat
 data.frame(ID=c(1:ncol(mat)), Family=colnames(mat)) -> fam
 
 #################################
