@@ -1,0 +1,222 @@
+ID,Character.old,Character,Check.box.label,Check.box.id
+1,,AC,Ocorrência,occurrence
+2,,AL,Ocorrência,occurrence
+3,,AM,Ocorrência,occurrence
+4,,AP,Ocorrência,occurrence
+5,,BA,Ocorrência,occurrence
+6,,CE,Ocorrência,occurrence
+7,,DF,Ocorrência,occurrence
+8,,ES,Ocorrência,occurrence
+9,,GO,Ocorrência,occurrence
+10,,MA,Ocorrência,occurrence
+11,,MG,Ocorrência,occurrence
+12,,MS,Ocorrência,occurrence
+13,,MT,Ocorrência,occurrence
+14,,PA,Ocorrência,occurrence
+15,,PB,Ocorrência,occurrence
+16,,PE,Ocorrência,occurrence
+17,,PI,Ocorrência,occurrence
+18,,PR,Ocorrência,occurrence
+19,,RJ,Ocorrência,occurrence
+20,,RN,Ocorrência,occurrence
+21,,RO,Ocorrência,occurrence
+22,,RR,Ocorrência,occurrence
+23,,RS,Ocorrência,occurrence
+24,,SC,Ocorrência,occurrence
+25,,SE,Ocorrência,occurrence
+26,,SP,Ocorrência,occurrence
+27,,TO,Ocorrência,occurrence
+28,,Amazônia,Domínio,domain
+29,,Caatinga,Domínio,domain
+30,,Cerrado,Domínio,domain
+31,,Mata Atlântica,Domínio,domain
+32,,Pampa,Domínio,domain
+33,,Pantanal,Domínio,domain
+34,,Arbusto,Forma,life.form
+35,,Árvore,Forma,life.form
+36,,Bambu,Forma,life.form
+37,,Dracenóide,Forma,life.form
+38,,Erva,Forma,life.form
+39,,Liana,Forma,life.form
+40,,Palmeira,Forma,life.form
+41,,Subarbusto,Forma,life.form
+42,,Suculenta,Forma,life.form
+43,,trepadeira,Forma,life.form
+44,,volúvel,Forma,life.form
+45,,Aquática,Substrato,habitat
+46,,Epífita,Substrato,habitat
+47,,Hemiepífita,Substrato,habitat
+48,,Hemiparasita,Substrato,habitat
+49,,Parasita,Substrato,habitat
+50,,Rupícola,Substrato,habitat
+51,,Saprófita,Substrato,habitat
+52,,Terrícola,Substrato,habitat
+53,"22 LEAVES ALTERNATE (EXCL. DISTICHOUS MONOCOTS),",Folhas alternas (excl. Monocots dísticas),Folhas,folhas
+54,"21 LEAVES OPPOSITE OR VERTICILLATE,",Folhas opostas ou verticiladas,Folhas,folhas
+55,"23 LEAVES DISTICHOUS (MONOCOTS ONLY),",Folhas dísticas (somente Monocots),Folhas,folhas
+56,"24 LEAVES EQUITANT (E.G. IRIS),",Folhas equitantes (e.g. Iris),Folhas,folhas
+57,"25 LEAVES PELTATE,",Folhas peltadas,Folhas,folhas
+58,"26 LEAVES NOT COMPOUND,",Folhas simples,Folhas,folhas
+59,"27 LEAVES COMPOUND,",Folhas compostas,Folhas,folhas
+60,"28 LEAVES PINNATELY COMPOUND (4 OR MORE LEAFLETS),",Folhas pinadas - 4 ou mais folíolos,Folhas,folhas
+61,"29 LEAVES TERNATELY COMPOUND (3 LEAFLETS),",Folhas pinadas - 3 folíolos,Folhas,folhas
+62,"30 LEAVES PALMATELY COMPOUND (4 OR MORE LEAFLETS),",Folhas palmadas - 4 ou mais folíolos,Folhas,folhas
+63,"31 VENATION PINNATE OR HARDLY VISIBLE IN LEAVES OR LEAFLETS (INCL. NO. 30),",Venação pinada ou pouco perceptível (folhas ou folíolos),Folhas,folhas
+64,"32 VENATION INVISIBLE OR LEAVES 1-NERVED (MONOCOTS ONLY),",Venação não perceptível ou 1-nervada (somente Monocots),Folhas,folhas
+65,"33 VENATION LONGITUDINAL IN LEAVES OR LEAFLETS (INCL. 3-NERVED LEAVES),",Venação longitudinal (folhas ou folíolos),Folhas,folhas
+66,"34 VENATION PALMATE IN LEAVES OR LEAFLETS,",Venação palmada (folhas ou folíolos),Folhas,folhas
+67,"35 LEAVES OR LEAFLETS WITH ENTIRE MARGIN (WITHOUT ANY LOBES OR TEETH),",Folhas ou folíolos com margem inteira,Folhas,folhas
+68,"36 LEAVES OR LEAFLETS LOBED OR DIVIDED,",Folhas ou folíolos lobados ou divididos,Folhas,folhas
+69,"37 LEAVES OR LEAFLETS DENTATE, SERRATE, CRENATE, ETC.,","Folhas ou folíolos denteados, serrados, crenados, etc…",Folhas,folhas
+70,"38 EPIDERMIS OF LEAF PAPILLOSE (DICOTS ONLY),",Epiderme foliar papilosa (somente Dicots),Folhas,folhas
+71,"39 LEAVES WITH PELLUCID OR GLANDULAR DOTS OR LINES,",Folhas com pontos ou linhas translúcidas ou glandular,Folhas,folhas
+72,"40 LEAVES WITH A LIGULE,",Folhas com lígula,Folhas,folhas
+73,"41 STIPULES ABSENT,",Estípulas ausentes,Folhas,folhas
+74,"42 STIPULES PRESENT (ONLY THE SCARS MAY BE LEFT),",Estípulas presentes (talvez só a cicatriz presente),Folhas,folhas
+75,"43 FLOWERS SOLITARY,",Flores solitárias,Inflorescências,inflo
+76,"44 INFLORESCENCE A RACEME, SIMPLE AND MONOPODIAL,","Inflorescência em rácemo, simples, monopodial",Inflorescências,inflo
+77,"45 INFLORESCENCE A SPIKE, SIMPLE AND MONOPODIAL,","Inflorescência em espiga, simples, monopodial",Inflorescências,inflo
+78,"46 INFLORESCENCE A CORYMB, SIMPLE AND MONOPODIAL,","Inflorescência em corimbo, simples, monopodial",Inflorescências,inflo
+79,"47 INFLORESCENCE AN UMBEL, SIMPLE AND MONOPODIAL,","Inflorescência em umbela, simples, monopodial",Inflorescências,inflo
+80,"48 INFLORESCENCE A FASCICLE, SIMPLE AND MONOPODIAL,","Inflorescência em fascículo, simples, monopodial",Inflorescências,inflo
+81,"49 INFLORESCENCE A HEAD, SIMPLE AND MONOPODIAL,","Inflorescência em capítulo, simples, monopodial",Inflorescências,inflo
+82,"50 INFLORESCENCE SIMPLE AND SYMPODIAL (CYME, DICHASIUM ETC.),","Inflorescência simples e simpodial (cimeira, dicásio, etc..)",Inflorescências,inflo
+83,"51 INFLORESCENCE COMPOUND, SYMPODIAL OR MONOPODIAL (PANICLE, THYRSUS ETC.),","Inflorescência composta, simpodial ou monopodial (panícula, tirso, etc...)",Inflorescências,inflo
+84,"52 FLOWERS BISEXUAL,",Flores bissexuais,Flores,flor
+85,"53 FLOWERS UNISEXUAL,",Flores unissexuais,Flores,flor
+86,"54 FLOWERS ACTINOMORPHIC,",Flores actinomorfas,Flores,flor
+87,"55 FLOWERS ZYGOMORPHIC,",Flores zigomorfas,Flores,flor
+88,"60 DISC PRESENT (ANNULAR OR SEPARATE GLANDS),",Disco nectarífero presente,Flores,flor
+89,"61 DISC ABSENT,",Disco nectarífero ausente,Flores,flor
+90,"62 PERIANTH SEGMENTS 0,",Partes do perianto = 0,Perianto,perianto
+91,"63 PERIANTH SEGMENTS 1,",Partes do perianto = 1,Perianto,perianto
+92,"64 PERIANTH SEGMENTS 2,",Partes do perianto = 2,Perianto,perianto
+93,"65 PERIANTH SEGMENTS 3,",Partes do perianto = 3,Perianto,perianto
+94,"66 PERIANTH SEGMENTS 4,",Partes do perianto = 4,Perianto,perianto
+95,"67 PERIANTH SEGMENTS 5,",Partes do perianto = 5,Perianto,perianto
+96,"68 PERIANTH SEGMENTS 6,",Partes do perianto = 6,Perianto,perianto
+97,"69 PERIANTH SEGMENTS MORE THAN 6,",Partes do perianto = mais de 6,Perianto,perianto
+98,"70 PERIANTH OF SIMILAR SEGMENTS,",Partes do perianto similares (homoclamídea),Perianto,perianto
+99,"71 PERIANTH OF CALYX AND COROLLA,",Partes do perianto diferentes (diclamídea),Perianto,perianto
+100,"72 SEPALS 0 (INCL. A CUPULAR CALYX WITHOUT LOBES),",Sépalas = 0,Sépalas,sepala
+101,"73 SEPALS 1,",Sépalas = 1,Sépalas,sepala
+102,"74 SEPALS 2,",Sépalas = 2,Sépalas,sepala
+103,"75 SEPALS 3,",Sépalas = 3,Sépalas,sepala
+104,"76 SEPALS 4,",Sépalas = 4,Sépalas,sepala
+105,"77 SEPALS 5,",Sépalas = 5,Sépalas,sepala
+106,"78 SEPALS MORE THAN 5,",Sépalas = mais de 5,Sépalas,sepala
+107,"79 SEPALS ALL FREE FROM ONE ANOTHER,",Sépalas livres (todas),Sépalas,sepala
+108,"80 SEPALS CONNATE (AT LEAST TWO OF THEM),",Sépalas unidas (pelo menos duas),Sépalas,sepala
+109,"81 SEPALS IMBRICATE OR CONTORTED,",Sépalas imbricadas,Sépalas,sepala
+110,"82 SEPALS VALVATE,",Sépalas valvadas,Sépalas,sepala
+111,"83 PETALS 0 (INCL. A CUPULAR COROLLA WITHOUT LOBES),",Pétalas = 0,Pétalas,petala
+112,"84 PETALS 1,",Pétalas = 1,Pétalas,petala
+113,"85 PETALS 2,",Pétalas = 2,Pétalas,petala
+114,"86 PETALS 3,",Pétalas = 3,Pétalas,petala
+115," 75 PETALS 4,",Pétalas = 4,Pétalas,petala
+116,"88 PETALS 5,",Pétalas = 5,Pétalas,petala
+117,"89 PETALS 6,",Pétalas = 6,Pétalas,petala
+118,"90 PETALS 7,",Pétalas = 7,Pétalas,petala
+119,"91 PETALS 8,",Pétalas = 8,Pétalas,petala
+120,"92 PETALS 9,",Pétalas = 9,Pétalas,petala
+121,"93 PETALS 10,",Pétalas = 10,Pétalas,petala
+122,"94 PETALS MORE THAN 10,",Pétalas = mais de 10,Pétalas,petala
+123,"95 PETALS ALL FREE FROM ONE ANOTHER,",Pétalas livres (todas),Pétalas,petala
+124,"96 PETALS CONNATE (AT LEAST TWO OF THEM),",Pétalas unidas (pelo menos duas delas),Pétalas,petala
+125,"97 PETALS IMBRICATE,",Pétalas imbricadas,Pétalas,petala
+126,"98 PETALS CONTORTED,",Pétalas contorcidas,Pétalas,petala
+127,"99 PETALS VALVATE,",Pétalas valvares,Pétalas,petala
+128,"100 CORONA PRESENT, OR SCALES IN THE THROAT,",Corona presente,Pétalas,petala
+129,"101 ANTHER 1, FERTILE,",Anteras = 1 (fértil),Estames,estame
+130,"102 ANTHERS 2, FERTILE,",Anteras = 2 (fértil),Estames,estame
+131,"103 ANTHERS 3, FERTILE,",Anteras = 3 (fértil),Estames,estame
+132,"104 ANTHERS 4, FERTILE,",Anteras = 4 (fértil),Estames,estame
+133,"105 ANTHERS 5, FERTILE,",Anteras = 5 (fértil),Estames,estame
+134,"106 ANTHERS 6, FERTILE,",Anteras = 6 (fértil),Estames,estame
+135,"107 ANTHERS 7, FERTILE,",Anteras = 7 (fértil),Estames,estame
+136,"108 ANTHERS 8, FERTILE,",Anteras = 8 (fértil),Estames,estame
+137,"109 ANTHERS 9, FERTILE,",Anteras = 9 (fértil),Estames,estame
+138,"110 ANTHERS 10, FERTILE,",Anteras = 10 (fértil),Estames,estame
+139,"111 ANTHERS MORE THAN 10, FERTILE,",Anteras = mais de 10 (fértil),Estames,estame
+140,"112 STAMENS THE SAME NUMBER AS AND OPPOSITE THE PETALS OR ALTERNATE WITH THE SEPALS,",Estames mesmo número que de pétalas,Estames,estame
+141,"113 FLOWERS OBDIPLOSTEMONOUS,",Estames obdiplostêmones,Estames,estame
+142,"114 ANTHERS DORSIFIXED OR VENTRIFIXED,",Anteras dorsifixas ou ventrifixas,Estames,estame
+143,"115 ANTHERS BASIFIXED,",Anteras basifixas,Estames,estame
+144,"116 ANTHERS INTRORSE,",Anteras introrsas,Estames,estame
+145,"117 ANTHERS EXTRORSE,",Anteras extrorsas,Estames,estame
+146,"118 ANTHERS OPENING BY LONGITUDINAL SLITS,",Anteras abertura = fenda longitudinal,Estames,estame
+147,"119 ANTHERS OPENING BY APICAL PORES,",Anteras abertura = poro apical,Estames,estame
+148,"120 ANTHERS OPENING BY VALVES,",Anteras abertura = valvas,Estames,estame
+149,"121 ANTHERS 1-LOCULAR AT ANTHESIS,",Antera 1-locular,Estames,estame
+150,"122 STAMENS FREE FROM THE COROLLA,",Estames livres da corola,Estames,estame
+151,"123 STAMENS INSERTED ON THE COROLLA,",Estames insertos na corola,Estames,estame
+152,"124 FILAMENTS NOT CONNATE,",Filamentos livres,Estames,estame
+153,"125 FILAMENTS CONNATE INTO 1 TUBE OR BUNDLE,",Filamentos unidos em um grupo,Estames,estame
+154,"126 FILAMENTS CONNATE INTO SEPARATE BUNDLES,",Filamentos unidos em vários grupos,Estames,estame
+155,"127 ANTHERS WITH A CONSPICUOUS APPENDAGE,",Antera com um apêndice conspícuo,Estames,estame
+156,"128 POLLEN COHERENT INTO POLLINIA OR WAX-LIKE MASSES,",Pólen em polínias,Estames,estame
+157,"129 STAMINODIA PRESENT (IN MALE OR PERFECT FLOWERS ONLY),",Estaminódios presentes,Estames,estame
+158,"130 GYNOPHORE,",Ginóforo presente,Estilete,estilete
+159,"131 STYLES ABSENT, STIGMAS SESSILE,",Estilete ausente (estigma séssil),Estilete,estilete
+160,"132 STYLES MORE THAN 1, FREE (CARPELS CONNATE),","Estilete mais que 1, livres (carpelos unidos)",Estilete,estilete
+161,"133 STYLE 1, OR STYLES MORE OR LESS CONNATE (CARPELS FREE OR CONNATE),","Estilete 1, ou estilete mais ou menos unidos (carpelos livres ou unidos)",Estilete,estilete
+162,"134 STYLE GYNOBASIC,",Estilete ginobásico,Estilete,estilete
+163,"56 RECEPTACLE SMALL (OVARY SUPERIOR),",Receptáculo pequeno (ovário súpero),Ovario,ovario
+164,"57 RECEPTACLE ENLARGED, UNITED WITH THE OVARY, TOTALLY OR PARTIALLY COVERING IT,","Receptáculo expandido, unido ao ovário, totalmente ou parcialmente  (ovário ínfero)",Ovario,ovario
+165,"58 RECEPTACLE ENLARGED, TOTALLY OR PARTIALLY FREE FROM THE OVARY (SUPER. TO INF.),","Receptáculo expandido, totalmente ou partialmente livre do ovário (ovário súpero a ínfero)",Ovario,ovario
+166,"59 RECEPTACLE ENLARGED, CONICAL OR HEMISPHERICAL (OVARIES SUPERIOR),","Receptáculo expandido, cônico ou hemisférico (ovário súpero)",Ovario,ovario
+167,"135 CARPEL 1,",Carpelos = 1,Ovario,ovario
+168,"136 CARPELS 2 (FREE OR UNITED),",Carpelos = 2 (livres ou unidos),Ovario,ovario
+169,"137 CARPELS 3 (FREE OR UNITED),",Carpelos = 3 (livres ou unidos),Ovario,ovario
+170,"138 CARPELS 4 (FREE OR UNITED),",Carpelos = 4 (livres ou unidos),Ovario,ovario
+171,"139 CARPELS 5 (FREE OR UNITED),",Carpelos = 5 (livres ou unidos),Ovario,ovario
+172,"140 CARPELS MORE THAN 5 (FREE OR UNITED),",Carpelos = mais de 5 (livres ou unidos),Ovario,ovario
+173,"141 OVARY 1-LOCULAR (INCL. APOCARPAE),",Ovário 1-lóculo (incl. apocárpicos),Ovario,ovario
+174,"142 OVARY 2-LOCULAR,",Ovário 2-lóculos,Ovario,ovario
+175,"143 OVARY 3-LOCULAR,",Ovário 3-lóculos,Ovario,ovario
+176,"144 OVARY 4-LOCULAR,",Ovário 4-lóculos,Ovario,ovario
+177,"145 OVARY 5-LOCULAR,",Ovário 5-lóculos,Ovario,ovario
+178,"146 OVARY WITH MORE THAN 5 LOCULES,",Ovário mais de 5 lóculos,Ovario,ovario
+179,"147 OVULE 1 IN EACH LOCULUS,",Óvulo 1 em cada lóculo,Ovario,ovario
+180,"148 OVULES 2 IN EACH LOCULUS,",Óvulo 2 em cada lóculo,Ovario,ovario
+181,"149 OVULES MORE THAN 2 IN EACH LOCULUS,",Óvulo mais de 2 em cada lóculo,Ovario,ovario
+182,"150 CARPELS FREE FROM EACH OTHER OR CARPEL 1,",Carpelos livres ou 1 carpelo,Ovario,ovario
+183,"151 OVULES PARIETAL, CARPELS CONNATE,",Placentação parietal (carpelos unidos),Ovario,ovario
+184,"152 OVULES AXILE, CARPELS CONNATE,",Placentação axial (carpelos unidos),Ovario,ovario
+185,"153 OVULETS ATTACHED TO THE CENTRAL AXIS OR VENTRALLY IF CARPELS FREE OR IF CARPEL 1,",Placentação axial ou ventral (carpelos livres ou 1 carpelo),Ovario,ovario
+186,"154 OVULES ATTACHED TO THE APEX OF THE OVARY,",Placentação apical,Ovario,ovario
+187,"155 OVULES ATTACHED TO THE BASE OF THE OVARY,",Placentação basal,Ovario,ovario
+188,"156 FRUIT A CAPSULE (INCL. POD, FOLLICLE ETC.),","Fruto = cápsula (incluindo legume, folículo)",Fruto,fruto
+189,"157 FRUIT A NUT (INCL. ACHENE, LOMENT, SCHIZOCARP ETC.),","Fruto = aquênio, lomento esquizocárpico",Fruto,fruto
+190,"158 FRUIT FLESHY (BERRY, DRUPE, POME),","Fruto = carnoso (baga, drupa, pomeríidio)",Fruto,fruto
+191,"159 FRUIT WITH 1 SEED,",Fruto = 1 semente,Fruto,fruto
+192,"160 FRUIT WITH 2 SEEDS,",Fruto = 2 sementes,Fruto,fruto
+193,"161 FRUIT WITH MORE THAN 2 SEEDS,",Fruto = com mais de 2 sementes,Fruto,fruto
+194,"162 FRUIT WITH WINGS,",Fruto alado,Fruto,fruto
+195,"163 FRUITS WITH HAIRS FOR DISPERAL BY WIND,",Fruto com tricomas para dispersão pelo vento,Fruto,fruto
+196,"164 FRUITS WITH RETRORSELY BARBED, HOOK-LIKE OR GLOCHIDIATE HAIRS,",Fruto com tricomas em forma de gancho,Fruto,fruto
+197,"165 FRUITS WITH SPINES OR HOOKS,",Fruto com espinhos ou ganchos,Fruto,fruto
+198,"166 SEEDS WITH WINGS,",Sementes aladas,Semente,semente
+199,"167 SEEDS WITH HAIRS,",Sementes com tricomas,Semente,semente
+200,"168 ARILLUS OR ARIL-LIKE ORGANS PRESENT,",Arilo (ou estrutura parecida) presente,Semente,semente
+201,"169 EMBRYO STRAIGHT,",Embrião reto,Semente,semente
+202,"170 EMBRYO CURVED,",Embrião curvado,Semente,semente
+203,"171 COTYLEDONS FOLDED OR CRUMPLED,",Cotilédones dobrados ou amassados,Semente,semente
+204,"172 SEEDS WITHOUT ENDOSPERM,",Sementes sem endosperma,Semente,semente
+205,"173 SEEDS WITH ENDOSPERM,",Sementes com endosperma,Semente,semente
+206,"174 ENDOSPERM RUMINATE,",Endosperma ruminado,Semente,semente
+207,"6 BULB PRESENT (MONOCOTS ONLY),",Bulbo presente (somente Monocots),Outras,outras
+208,"7 MILKY JUICE PRESENT,",Látex leitoso,Outras,outras
+209,"8 SPINY STEMS OR LEAVES,",Caules ou folhas com espinhos,Outras,outras
+210,"9 TENDRILS PRESENT,",Gavinhas presente,Outras,outras
+211,"10 CLADODES OR PHYLLODES (MODIFIED BRANCHES OR PETIOLES),",Cladódios ou filódios (ramos ou pecíolos modificados),Outras,outras
+212,"11 HAIRS GLANDULAR,",Tricomas glandular,Tricomas,tricomas
+213,"12 HAIRS STELLATE (ALSO 2-ARMED, BRANCHED AND TUFTED),","Tricomas estrelados (2-ramos, ramificados e em tufo)",Tricomas,tricomas
+214,"13 HAIRS STELLATE (NOT 2-ARMED, BRANCHED AND TUFTED),","Tricomas estrelados (nao 2-ramos, ramificados e em tufo)",Tricomas,tricomas
+215,"14 HAIRS 2-ARMED OR T-SHAPED, NON-GLANDULAR,","Tricomas 2-ramos ou em T, nao glandular",Tricomas,tricomas
+216,"15 HAIRS BRANCHED,",Tricomas ramificados,Tricomas,tricomas
+217,"16 HAIRS TUFTED, NON-GLANDULAR,","Tricomas em tufo, não glandular",Tricomas,tricomas
+218,"17 HAIRS PELTATE OR SCALE-LIKE,",Tricomas peltados ou escamas,Tricomas,tricomas
+219,"18 HAIRS VESICULAR OR BLADDER-LIKE,",Tricomas vesiculares,Tricomas,tricomas
+220,"19 HAIRS STINGING,",Tricomas urticantes,Tricomas,tricomas
+221,"20 CYSTOLITHS PRESENT (DICOTS ONLY),",Cistólitos presente (somente Dicots),Tricomas,tricomas

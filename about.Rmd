@@ -1,0 +1,25 @@
+---
+title: "Sobre"
+author: "Marcelo"
+date: "June 30, 2020"
+output: html_document
+---
+
+##  !
+  
+
+### Identificação de famílias de Angiospermas
+
+Este site foi desenvolvido com o objetivo principal de oferecer uma ferramenta online para identificação de famílias de angiospermas em português. Ainda não está claro se a chave irá funcionar satisfatoriamente para plantas brasileiras. Em caso de problemas, erros, caracteres erroneamente codificados, etc.. favor entrar em [contato](mailto:reginatobio@yahoo.com.br).
+
+
+### Fonte dos dados
+Esse site foi desenvolvido com dados provenientes de:
+
+* [World Wide Flowering Plant Family Identification](https://www.colby.edu/info.tech/BI211/PlantFamilyID.html)
+
+* [Flora do Brasil](http://floradobrasil.jbrj.gov.br/)
+
+### Código
+
+O código utilizado para gerar está página está disponível para [download](https://github.com/mreginato/Chave_familias_BR). Para criar uma página para uma família ou gênero específico basta mudar a matriz inicial de dados e fazer algumas poucas alterações no código.
