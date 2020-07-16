@@ -113,7 +113,7 @@ That text is repeated in several lines n the “server.R” file:
 
 The “About” page is an independent markdown file. To change its content,
 open the file “about.Rmd” in Rstudio. Then, just replace the text after
-Line 11 as you wish. See some “Rmarkdown” available online.
+Line 11 as you wish. See some “Rmarkdown” tutorials available online.
 
 ![](figures/Fig7.png)
 
