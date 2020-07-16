@@ -10,7 +10,7 @@ output: html_document
 
 ### Identificação de famílias de Angiospermas
 
-Este site foi desenvolvido com o objetivo principal de oferecer uma ferramenta online para identificação de famílias de angiospermas em português. Ainda não está claro se a chave irá funcionar satisfatoriamente para plantas brasileiras. Em caso de problemas, erros, caracteres erroneamente codificados, etc.. favor entrar em [contato](mailto:reginatobio@yahoo.com.br).
+Este site foi desenvolvido com o objetivo principal de oferecer uma ferramenta online para identificação de famílias de angiospermas em português. Ainda não está claro se a chave irá funcionar satisfatoriamente para plantas brasileiras. Em caso de problemas, erros, caracteres erroneamente codificados, etc.. favor entrar em [contato](mailto:myname@myemail.com).
 
 
 ### Fonte dos dados
