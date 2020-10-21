@@ -31,6 +31,7 @@ First, try to run the app localy “as it is”, just to check.
     appear
   - Run it
   - You may have to install the following packages before:
+      - library(markdown)
       - library(shiny)
       - library(shinyjs)
       - library(shinyTree)
